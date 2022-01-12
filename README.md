@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @XtraHamster, 23 years old and based in Prague, Czechia
-- 🌱 I’m currently learning AI, ML, Deep Learning, Python, Data modelling
 - 📫 How to reach me: write me on martinkrecek9@gmail.com
 
 <!---
